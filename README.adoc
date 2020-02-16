@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/spring-guides/tut-rest) 
+
 ---
 tags: [rest, hateoas, hypermedia, security, testing, oauth]
 projects: [spring-framework, spring-hateoas, spring-security, spring-security-oauth]
